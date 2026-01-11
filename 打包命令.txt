@@ -1,0 +1,1 @@
+uv run pyinstaller -F -w --name="Unlink" main.py
