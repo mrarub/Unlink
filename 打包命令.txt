@@ -1,1 +1,2 @@
+#打包命令
 uv run pyinstaller -F -w --name="Unlink" main.py
